@@ -11,13 +11,13 @@ The purpose of **CopyADGroups** is to facilitate the administration of AD groups
 ---
 
 ## 📁 Project Structure
-
+You need to creat the following structure:
 ```
 CopyADGroups/
 ├── logo/
-│ └── (Image used in the interface)
+│ └── (Image used in the interface and the icon (.ico) for the shortcut)
 ├── logs/
-│ └── (Generated automatically when running the application)
+│ └── (Logs files  are generated automatically when running the application)
 ├── script/
 │ └── CopyADGroup.ps1 # Main application script
 ├── utils/
@@ -45,7 +45,7 @@ CopyADGroups/
 ---
 
 ## 🚀 How to use
-Download the application package (CopyAdGroup directory), place it in the desired path (e.g. C:) and then run Powershell:
+Download the application files, place it in the desired path (e.g. C:) where you created the structure as above and then run Powershell:
 
 ```powershell
 cd c:\CopyADGroups\utils
