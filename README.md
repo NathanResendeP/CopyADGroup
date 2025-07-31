@@ -12,7 +12,7 @@ The purpose of **CopyADGroups** is to facilitate the administration of AD groups
 
 ## 📁 Project Structure
 
-```CopyADGroups/
+CopyADGroups/
 ├── logo/
 │ └── (Image used in the interface)
 ├── logs/
