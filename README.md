@@ -12,6 +12,7 @@ The purpose of **CopyADGroups** is to facilitate the administration of AD groups
 
 ## 📁 Project Structure
 
+```
 CopyADGroups/
 ├── logo/
 │ └── (Image used in the interface)
@@ -21,7 +22,7 @@ CopyADGroups/
 │ └── CopyADGroup.ps1 # Main application script
 ├── utils/
 │ └── CopyGroupShortcut.ps1 # Script to create silent tool shortcut on the desktop
-
+```
 ---
 
 ## 🛠 Features
@@ -49,7 +50,7 @@ Download the application package (CopyAdGroup directory), place it in the desire
 ```powershell
 cd c:\CopyADGroups\utils
 ./CopyGroupShortcut.ps1
-
+```
 This script creates a shortcut on the desktop so that the tool can be run directly from the graphical interface, without opening the PowerShell console.
 
 After running this script, the application can be used normally every time via the shortcut created on the desktop, without the need for a console.
