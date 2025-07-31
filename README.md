@@ -59,14 +59,14 @@ After running this script, the application can be used normally every time via t
 
 ## 🧾 Logs
 
-Os logs de uso são gerados automaticamente em:
+Usage logs are automatically generated in:
   CopyADGroups/logs/log_CopyADGroup.txt
 
 ---
 
 ##🧑‍💻 Autor
 
-Desenvolvido por Nathan Resende da Silva Pinto
+Developed by Nathan Resende da Silva Pinto
 🔗 https://github.com/NathanResendeP
 
 ---
