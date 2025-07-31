@@ -12,7 +12,7 @@ The purpose of **CopyADGroups** is to facilitate the administration of AD groups
 
 ## 📁 Project Structure
 
-CopyADGroups/
+```CopyADGroups/
 ├── logo/
 │ └── (Image used in the interface)
 ├── logs/
@@ -20,7 +20,7 @@ CopyADGroups/
 ├── scripts/
 │ └── CopyADGroup.ps1 # Main application script
 ├── utils/
-│ └── CopyGroupShortcut.ps1 # Script to create silent tool shortcut in the desktop
+│ └── CopyGroupShortcut.ps1 # Script to create silent tool shortcut on the desktop```
 
 ---
 
