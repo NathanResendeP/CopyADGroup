@@ -1,7 +1,0 @@
-[2025-07-29 14:34:38] Executed by: adminnares
-Source user: recepcao.vsa
-Target user: pepijn.mooijman
-Groups added: SG_VdB_Human_Resources_ Limited_Access, SG_VdB_CPD, SG_VCMG_Intune_Users, SG_VdB_Everyone, SG_VdB_Front_Desk_Write, SG_VdB_General
-Groups skipped: SG_Intune_Users (already a member)
-Groups with errors: 
-------------------------------------------------------------
