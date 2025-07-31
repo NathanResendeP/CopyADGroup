@@ -18,7 +18,7 @@ CopyADGroups/
 │ └── (Image used in the interface)
 ├── logs/
 │ └── (Generated automatically when running the application)
-├── scripts/
+├── script/
 │ └── CopyADGroup.ps1 # Main application script
 ├── utils/
 │ └── CopyGroupShortcut.ps1 # Script to create silent tool shortcut on the desktop
