@@ -20,7 +20,7 @@ The purpose of **CopyADGroups** is to facilitate the administration of AD groups
 ├── scripts/
 │ └── CopyADGroup.ps1 # Main application script
 ├── utils/
-│ └── CopyGroupShortcut.ps1 # Script to create silent tool shortcut on the desktop```
+│ └── CopyGroupShortcut.ps1 # Script to create silent tool shortcut on the desktop
 
 ---
 
