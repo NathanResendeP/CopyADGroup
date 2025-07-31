@@ -11,7 +11,7 @@ The purpose of **CopyADGroups** is to facilitate the administration of AD groups
 ---
 
 ## 📁 Project Structure
-You need to creat the following structure:
+You need to create the following structure:
 ```
 CopyADGroups/
 ├── logo/
