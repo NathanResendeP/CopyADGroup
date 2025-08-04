@@ -64,14 +64,14 @@ Usage logs are automatically generated in:
 
 ---
 
-##🧑‍💻 Autor
+## 🧑‍💻 Autor
 
 Developed by Nathan Resende da Silva Pinto
 🔗 https://github.com/NathanResendeP
 
 ---
 
-##📝 License
+## 📝 License
 
 This project is licensed under the MIT License.
 You can use it, modify it and distribute it freely, as long as you preserve the author's credits.
